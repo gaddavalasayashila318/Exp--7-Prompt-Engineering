@@ -57,6 +57,7 @@ Compare original and generated images.
 Document differences and improvements.
 
 Output:
+[Name GADDAVALASA YASHILA Register number 212225050011  exp 7.pdf](https://github.com/user-attachments/files/28557694/Name.GADDAVALASA.YASHILA.Register.number.212225050011.exp.7.pdf)
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
